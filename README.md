@@ -42,14 +42,17 @@ Siamese U-Net with a Swin Transformer encoder for damage classification from pre
 ### [Weather MLOps](https://github.com/akhellad/weather-mlops)
 End-to-end MLOps pipeline for next-day temperature prediction from ERA5 data. MLflow tracking and model registry, FastAPI serving, Evidently for drift monitoring, DVC for data versioning, GitHub Actions for CI and automated retraining. Automatic promotion to production when RMSE improves.
 
-### SurgiTrack — From-scratch reimplementation
+### [SurgiTrack — From-scratch reimplementation](https://github.com/akhellad/SURGICAL-TOOL-TRACKING-PHASE-RECOGNITION)
 Full PyTorch reproduction of the SurgiTrack paper (multi-object tracking in surgical video). State-of-the-art results on the paper's metrics (HOTA, MOTA, IDF1).
 
-### YOLOv5 from scratch
+### [YOLOv5 from scratch](https://github.com/akhellad/RTD)
 Complete reimplementation of YOLOv5 without any Ultralytics dependency. Trained on COCO, **0.36 mAP**.
 
-### Underwater segmentation (SUIM dataset)
+### [Underwater segmentation (SUIM dataset)](https://github.com/akhellad/suim-segmentation)
 DeepLabV3 + ResNet101 backbone, **mIoU 0.64**, **25 FPS** with ONNX export and REST API serving.
+
+### [Real-time fight analyzer](https://github.com/akhellad/combat-sport-analyser)
+Person detection, pose estimation and activity classification on real-time video streams, with a tracking dashboard. Activity detection rules parameterized from pose keypoints.
 
 ---
 
