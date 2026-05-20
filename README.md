@@ -56,13 +56,6 @@ Person detection, pose estimation and activity classification on real-time video
 
 ---
 
-## GitHub stats
-
-![Djalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhellad&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhellad&layout=compact&theme=default&hide_border=true)
-
----
-
 ## Get in touch
 
 - **Email** — [ahmed.khelladi.pro@gmail.com](mailto:ahmed.khelladi.pro@gmail.com)
